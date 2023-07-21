@@ -6,5 +6,5 @@ Why? Determinants are useful for many things:
 * learning whether our matrix will invert the orientation of the coordinate system (left-handed to right-handed and vice versa).
 
 
-"determinant.c" -- Project implementation
+"determinant.c" -- Project implementation<br />
 "project_key.txt" -- Examples to test on
